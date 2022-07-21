@@ -1,0 +1,15 @@
+name: Test
+author: Sebasfra
+main: Hub\Main
+api: 4.0.0
+version: 1.0.0
+
+commands:
+test:
+  description: "Plugin de prueba by Sebas"
+  permission: test.use
+
+permissions:
+   test.use:
+   description: "Permisos para el comando"
+   default: true 
