@@ -1,1 +1,2 @@
 # Discord
+# Discord command /Discord
